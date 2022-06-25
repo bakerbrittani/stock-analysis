@@ -1,4 +1,4 @@
-# stock-analysis
+# An Analysis of Stocks
 ### Utilizing Visual Basic for Applications to Analyze Stocks
 
 ## Overview/Purpose
